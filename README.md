@@ -1,0 +1,1 @@
+# iFunny-DNS-Filter
